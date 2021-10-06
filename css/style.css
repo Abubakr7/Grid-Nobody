@@ -4,6 +4,10 @@
     padding: 0;
 }
 
+a {
+    text-decoration: none;
+}
+
 .container {
     margin: 0 auto;
     max-width: 960px;
@@ -78,9 +82,6 @@
     transition: 1s;
 }
 
-.menu__link {
-    text-decoration: none;
-}
 
 .plus {
     position: absolute;
